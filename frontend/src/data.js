@@ -20,15 +20,5 @@ export default {
       rating: 4.5,
       numReviews: 10,
     },
-    {
-      _id: '223',
-      name: "Fit shirt",
-      category: "Shirts",
-      image: "/images/d1.jpg",
-      price: 50,
-      brand: " SOSITE HUY",
-      rating: 4.5,
-      numReviews: 10,
-    },
   ],
 };
